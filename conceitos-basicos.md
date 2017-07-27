@@ -1,6 +1,6 @@
 # Conceitos Básicos
 
-## Entrada/Saída
+## \#\# Entrada/Saída
 
 ![](/assets/pexels-photo-313700s.jpeg)
 
@@ -9,8 +9,6 @@
 Entrada: Pedido
 
 Saída: Prato elaborado
-
-
 
 ### Descrição:
 
