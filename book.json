@@ -1,7 +1,7 @@
 {
-    /*"plugins": ["toggle-chapters"]*/
-    "plugins": ["expandable-chapters"],
+    "plugins": ["toggle-chapters"]
+    /*"plugins": ["expandable-chapters"],
     "pluginsConfig": {
         "expandable-chapters":{}
-    }
+    }*/
 }
