@@ -1,10 +1,6 @@
 ## Entrada/Saída 
 
-{width=60%}
-![Entrada e Saída - Imagens extraídas dos sites (www.obagastronomia.com.br/) e (http://www.querocomer.com.br/)](images/originals/entrada2.jpg) 
-
 ![](/assets/pexels-photo-313700s.jpeg)
-
 
 ~~~~~~~~
 Analogia:
