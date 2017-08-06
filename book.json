@@ -1,3 +1,7 @@
 {
-    "plugins": ["toggle-chapters"]
+    /*"plugins": ["toggle-chapters"]*/
+    "plugins": ["expandable-chapters"],
+    "pluginsConfig": {
+        "expandable-chapters":{}
+    }
 }
