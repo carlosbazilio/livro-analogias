@@ -18,9 +18,9 @@ Os **cozinheiros**, por sua vez, tem a tarefa metódica de executar o que está 
 
 Pensando numa cozinha industrial, onde a quantidade de pratos a serem preparados simultaneamente é grande, é fundamental que haja um pessoal de apoio para garantir o bom funcionamento da cozinha. Chamaremos estes de **assistentes do cozinheiro**, os quais localizam os ingredientes e utensílios nos armários e geladeiras, arrumam estes quando há necessidade, arrumam também a bancada, lavam a louça que já foi utilizada e que poderá ser reutilizada, controlam a temperatura do fogo, ou seja, dão todo o apoio para que as receitas possam ser preparadas da melhor forma possível. Na Computação estes são chamados de **Sistemas Operacionais**. A forma como estes funcionam varia de fabricante para fabricante, assim como as cozinhas possuem organizações bem particulares. Observem que iniciamos este parágrafo considerando cozinhas industriais. Mas, tendo em vista os papéis cruciais desempenhados pelos assistentes, não é de se estranhar que toda cozinha tenha alguém com este papel. Da mesma forma, encontramos Sistemas Operacionais tanto em grandes centros computacionais como em computadores domésticos, tablets, celulares e qualquer outro equipamento que execute diferentes programas.
 
-<a name="analogias"></a>
-
 Abaixo segue um resumo das analogias de base para este livro:
+
+<a name="analogias"></a>
 
 | Culinária | Programação |
 | :--- | :--- |
@@ -34,8 +34,6 @@ Abaixo segue um resumo das analogias de base para este livro:
 | Cliente | Usuário |
 | Livro de Receitas | Sistema |
 | Material para criar receitas | IDE |
-
-
 
 Agora que introduzimos as analogias básicas e gerais entre Computação e Culinária, podemos iniciar a apresentação das analogias entre receitas e programas, as quais são o objetivo principal deste livro.
 
