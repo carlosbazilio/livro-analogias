@@ -1,6 +1,6 @@
 ## Estruturas de controle
 
-![](/assets/controle.jpeg)
+![](/assets/controle.jpg)
 
 São operações utilizadas para se alterar o fluxo de operações sequencial padrão, onde um comando é executado após o outro. As estruturas de controle criam fluxos alternativos, os quais podem ser seguidos em função dos valores de variáveis. Na cozinha, estas operações são usadas frequentemente para se verificar o cozimento de alimentos, consistência das massas num preparo (ponto), tempo de assado, dentre outros.
 
