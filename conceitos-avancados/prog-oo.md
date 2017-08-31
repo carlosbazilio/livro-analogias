@@ -15,15 +15,15 @@ A programação nesse paradigma se caracteriza pela identificação de classes e
 10.      Caracteristicas: quantidade     
 11.      Operacoes: molhar
 12.  
-13.  Objeto Macarrao instantaneo = Macarrao amarelo, formato trança, 200gr
+13. Objeto Macarrao instantaneo = Macarrao amarelo, formato trança, 200gr
 14.  
-15.  Objeto Cacarola = Panela 1 litro, teflon
+15. Objeto Cacarola = Panela 1 litro, teflon
 16.  
-17.  Objeto Porcao de agua = Agua 500 ml
+17. Objeto Porcao de agua = Agua 500 ml
 18.  
-19.  Cacarola.adicionar (Porcao de agua)
-20.  Cacarola.adicionar (Macarrao instantaneo)
-21.  Cacarola.aquecer (3min)
+19. Cacarola.adicionar (Porcao de agua)
+20. Cacarola.adicionar (Macarrao instantaneo)
+21. Cacarola.aquecer (3min)
 ~~~~~~~~
 
 Nas linhas 1, 5 e 9 temos o início da declaração das classes Macarrão, Panela e Água, respectivamente. A classe Macarrão, por exemplo, possui como características a cor, o formato e o peso. Como operacões para manipulá-lo, temos a operação de lavar e a de cozinhar. Nas linhas 13, 15 e 17 temos a instanciação das classes definidas, ou seja, a criação de exemplos das classes. Observe que na criação de cada objeto são fornecidos dados específicos que correspondem às características da classe. Por exemplo, na linha 13, o objeto Macarrão instantâneo é criado com o tipo amarelo, formato de trança e com 200gr. Os outros objetos são criados de forma correspondente. Nas linhas 19, 20 e 21 os objetos são combinados para o preparo do macarrão. Na linha 19 a caçarola, que é um objeto do tipo panela, recebe uma porção de água. Na linha seguinte, a mesma caçarola recebe a porção de macarrão instantâneo. Finalmente, na linha 21 a caçarola é aquecida por 3 min.
