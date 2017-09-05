@@ -14,6 +14,7 @@
    * [Coleções](conceitos-basicos/colecoes.md)
    * [Subrotinas](conceitos-basicos/subrotinas.md)
    * [Parâmetros](conceitos-basicos/parametros.md)
+   * [Recursão](conceitos-basicos/recursao.md)
    * [Bibliotecas](conceitos-basicos/bibliotecas.md)
    * [Arquivos](conceitos-basicos/arquivos.md)
    * [Ponteiros](conceitos-basicos/ponteiros.md)
