@@ -26,11 +26,11 @@ Para tal, partiremos de algumas analogias básicas de forma que as analogias lig
 
 Quando dizemos que utilizamos uma cozinha (e não um quarto), já subentendemos que uma série de elementos comuns de uma cozinha estarão disponíveis. A cada destes elementos fazemos uma associação a componentes num computador. **Pias** e **bancadas** constituem a **memória principal**, pois elementos são armazenados ali de forma temporária, apenas para o preparo de uma receita. Ingredientes, vasilhames, até a descrição da receita em si, usualmente são colocados nesta memória.
 
-| ![](/assets/geladeira.jpg) | ![](/assets/hd.jpeg) |
+<img src="/assets/geladeira.jpg" width="320"/> <img src="/assets/hd.jpeg" width="320"/>
 
 Para que diversas receitas possam ser preparadas, é necessário que uma cozinha esteja bem equipada para permitir o armazenamento adequado de produtos e utensílios domésticos. Para tal utilizamos **armários**, **geladeiras** e **freezers**, os quais representam nossa **memória secundária**, ou seja, dispositivos que armazenam nossos produtos por um tempo muito maior que nossas pias e bancadas.
 
-| ![](/assets/fogao.jpeg) | ![](/assets/cpu.jpeg) |
+![](/assets/fogao.jpeg) ![](/assets/cpu.jpeg)
 
 Para que o preparo da receita possa de fato ocorrer, **fogões**, **fornos** e **microondas** costumam ser peças fundamentais, para onde vão todo nosso esforço na cozinha. Esses elementos, na Computação, são os **processadores**. Como na cozinha, há muitos tipos, os quais podem diferir pela velocidade de processamento, consumo de energia, material utilizado, etc. Estas e outras características, juntamente com a competição de mercado, determinam os preços desses componentes.
 
