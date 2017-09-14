@@ -4,7 +4,7 @@
 
 Neste livro apresentaremos conceitos de **programação** fazendo **analogia** com a **culinária**. Para tal não é necessário ser um "mestre cuca" para entender as analogias apresentadas. Utilizamos este artifício como forma de facilitar o entendimento de conceitos na programação. Os conceitos abordados vão desde a programação básica, para iniciantes, até conceitos mais avançados, exigidos a programadores experientes.
 
-Antes de falarmos de programação efetivamente, vamos apresentar de maneira minimalista, mas suficiente, o que é um computador. Na verdade, o esquema acima descreve de maneira geral todos os sistemas computacionais que temos contato: celulares, tablets, robôs, forno microondas, etc. 
+Antes de falarmos de programação efetivamente, vamos apresentar de maneira minimalista, mas suficiente, o que é um computador. Na verdade, o esquema abaixo descreve de maneira geral todos os sistemas computacionais que temos contato: celulares, tablets, robôs, forno microondas, etc. 
 
 ![](/assets/sistema-computacional.jpg)
 
