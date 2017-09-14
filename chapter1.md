@@ -22,7 +22,7 @@ A seguir veremos analogias básicas destes componentes em nossa cozinha.
 
 Para tal, partiremos de algumas analogias básicas de forma que as analogias ligadas à programação possam ser bem compreendidas. Inicialmente, uma **cozinha** pode ser associada a um **computador**. É nela em que tudo acontece. Um computador executa programas, assim como uma cozinha é utilizada para preparar receitas. O computador é operado por um usuário, o qual tem necessidades específicas e utiliza o computador para automatizá-las. Da mesma forma as receitas só são preparadas quando há clientes famintos demandando estas.
 
-| ![](/assets/bancada.jpeg){:width="50%"} | ![](/assets/memoria.jpeg){:width="50%"} |
+| [![](/assets/bancada.jpeg){:width="50%"}] | [![](/assets/memoria.jpeg){:width="50%"}] |
 
 Quando dizemos que utilizamos uma cozinha (e não um quarto), já subentendemos que uma série de elementos comuns de uma cozinha estarão disponíveis. A cada destes elementos fazemos uma associação a componentes num computador. **Pias** e **bancadas** constituem a **memória principal**, pois elementos são armazenados ali de forma temporária, apenas para o preparo de uma receita. Ingredientes, vasilhames, até a descrição da receita em si, usualmente são colocados nesta memória.
 
