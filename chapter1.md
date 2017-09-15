@@ -32,13 +32,13 @@ No preparo de receitas que envolvem muitos ingredientes, ou no preparo de mais d
 
 <img src="/assets/geladeira.jpg" width="320"/> <img src="/assets/hd.jpeg" width="320"/>
 
-
-
-Para que diversas receitas possam ser preparadas, é necessário que uma cozinha esteja bem equipada para permitir o armazenamento adequado de produtos e utensílios domésticos. Para tal utilizamos **armários**, **geladeiras** e **freezers**, os quais representam nossa **memória secundária**, ou seja, dispositivos que armazenam nossos produtos por um tempo muito maior que nossas pias e bancadas.
+Para que diversas receitas possam ser preparadas, é necessário que uma cozinha esteja bem equipada para permitir o armazenamento adequado de produtos e utensílios domésticos. Para tal utilizamos **armários**, **geladeiras** e **freezers**, os quais representam nossa **memória secundária**, ou seja, dispositivos que armazenam nossos produtos com muito mais espaço e por um tempo muito maior que nossas pias e bancadas.
 
 <img src="/assets/fogao.jpeg" width="320"/> <img src="/assets/cpu.jpeg" width="320"/>
 
 Para que o preparo da receita possa de fato ocorrer, **fogões**, **fornos** e **microondas** costumam ser peças fundamentais, para onde vão todo nosso esforço na cozinha. Esses elementos, na Computação, são os **processadores**. Como na cozinha, há muitos tipos, os quais podem diferir pela velocidade de processamento, consumo de energia, material utilizado, etc. Estas e outras características, juntamente com a competição de mercado, determinam os preços desses componentes.
+
+
 
 <img src="/assets/cozinha-projeto.jpeg" width="320"/> <img src="/assets/computador-arquitetura.jpeg" width="320"/>
 
@@ -48,7 +48,7 @@ Um **arquiteto** na construção civil tem como uma de suas atribuições garant
 
 As receitas são elaboradas por **chefes de cozinha** e preparadas por cozinheiros. A elaboração destas é feita baseada na experiência do chefe com diferentes ingredientes, que combinados darão o efeito desejado. Tendo em vista que ingredientes similares podem causar o mesmo efeito, como manteiga e azeite, um mesmo prato pode ser preparado de diferentes formas. De forma similar ocorre na programação, onde programas diferentes podem ter o mesmo resultado. Os chefes são os **programadores** que elaboram receitas de acordo com o pedido de seus clientes.
 
-<img src="/assets/robo.jpg" width="320"/>
+<img src="/assets/robo.jpg" width="640"/>
 
 Os **cozinheiros**, por sua vez, tem a tarefa metódica de executar o que está descrito na receita. Essa execução é feita passo a passo, na mesma ordem listada na receita. É comum que cozinheiros improvisem, alterem a receita durante o preparo, seja pela falta de algum ingrediente, seja com o intuito de dar um toque pessoal à receita. Na Computação, o papel do cozinheiro é exercido pelo **interpretador** de uma linguagem, ou seja, o programa que os cozinheiros executam para interpretar as receitas. A única diferença é que não há toque pessoal na Computação, ou seja, o interpretador só executa aquilo que está descrito, nada mais, nada menos. No máximo pode ocorrer a falta de algum ingrediente. Mesmo nesta situação, é necessário que o interpretador já saiba de antemão qual caminho alternativo seguir. Se pensarmos bem, com o cozinheiro acontece a mesma coisa, pois ele precisa ter vivido aquela situação de falta de algum ingrediente para conhecer seus possíveis substitutos.
 
