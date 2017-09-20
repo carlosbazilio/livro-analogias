@@ -24,9 +24,9 @@ A seguir veremos analogias básicas destes componentes em nossa cozinha.
 
 Uma **cozinha** pode ser associada a um **computador**. É nela em que tudo acontece. Um computador executa programas, assim como uma cozinha é utilizada para preparar receitas. O computador é operado por um usuário, o qual tem necessidades específicas e utiliza o computador para automatizá-las. Da mesma forma as receitas só são preparadas quando há clientes famintos demandando estas.
 
-<img src="/assets/bancada.jpeg" width="320"/> <img src="/assets/memoria.jpeg" width="320"/>
-
 ## Memória Principal
+
+<img src="/assets/bancada.jpeg" width="320"/> <img src="/assets/memoria.jpeg" width="320"/>
 
 Quando dizemos que utilizamos uma cozinha (e não um quarto), já subentendemos que uma série de elementos comuns de uma cozinha estarão disponíveis. A cada destes elementos fazemos uma associação a componentes num computador. **Pias** e **bancadas** constituem a **memória principal**, pois elementos são armazenados ali de forma temporária, apenas para o preparo de uma receita. Ingredientes, vasilhames, até a descrição da receita em si, são colocados nesta memória para auxiliar o preparo da receita.
 
