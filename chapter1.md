@@ -38,11 +38,9 @@ Para que diversas receitas possam ser preparadas, é necessário que uma cozinha
 
 Para que o preparo da receita possa de fato ocorrer, **fogões**, **fornos** e **microondas** costumam ser peças fundamentais, para onde vão todo nosso esforço na cozinha. Esses elementos, na Computação, são os **processadores**. Como na cozinha, há muitos tipos, os quais podem diferir pela velocidade de processamento, consumo de energia, material utilizado, etc. Estas e outras características, juntamente com a competição de mercado, determinam os preços desses componentes.
 
-
-
 <img src="/assets/cozinha-projeto.jpeg" width="320"/> <img src="/assets/computador-arquitetura.jpeg" width="320"/>
 
-Um **arquiteto** na construção civil tem como uma de suas atribuições garantir a melhor distribuição destes elementos numa cozinha. Esta distribuição deve garantir que estes elementos funcionem da forma mais **eficiente** possível. Por exemplo, uma bancada sempre está próxima de uma pia, pois é comum na cozinha a tarefa de descascar e lavar, por exemplo. Ou seja, a distribuição otimiza as tarefas mais frequentes. De forma igual ocorre na Computação, onde um **arquiteto de hardware** projeta a máquina de forma que seus componentes funcionem da forma mais eficiente possível. Por exemplo, no uso do fogão, durante um preparo, os ingredientes podem ser necessários em momentos distintos, e um retardo ao pegar um ingrediente pode resultar num prato com cozimento fora do ideal, por exemplo. Relação similar ocorre entre **processador** e **memória** num computador.
+Um **arquiteto** na construção civil tem como uma de suas atribuições garantir a melhor distribuição dos espaços numa cozinha. Esta distribuição deve garantir buscar a maior eficiência possível. Por exemplo, uma bancada sempre está próxima de uma pia, pois é comum na cozinha a tarefa de descascar e lavar, por exemplo. Ou seja, a distribuição otimiza as tarefas mais frequentes. De forma igual ocorre na Computação, onde um **arquiteto de hardware** projeta a máquina de forma que seus componentes funcionem da forma mais eficiente possível. Por exemplo, no uso do fogão, durante um preparo, os ingredientes podem ser necessários em momentos distintos, e um retardo ao pegar um ingrediente pode resultar num prato com cozimento fora do ideal, por exemplo. Relação similar ocorre entre **processador** e **memória** num computador.
 
 <img src="/assets/cozinheiros.jpg" width="320"/> <img src="/assets/programadoras.jpg" width="320"/>
 
@@ -50,7 +48,9 @@ As receitas são elaboradas por **chefes de cozinha** e preparadas por cozinheir
 
 <img src="/assets/robo.jpg" width="640"/>
 
-Os **cozinheiros**, por sua vez, tem a tarefa metódica de executar o que está descrito na receita. Essa execução é feita passo a passo, na mesma ordem listada na receita. É comum que cozinheiros improvisem, alterem a receita durante o preparo, seja pela falta de algum ingrediente, seja com o intuito de dar um toque pessoal à receita. Na Computação, o papel do cozinheiro é exercido pelo **interpretador** de uma linguagem, ou seja, o programa que os cozinheiros executam para interpretar as receitas. A única diferença é que não há toque pessoal na Computação, ou seja, o interpretador só executa aquilo que está descrito, nada mais, nada menos. No máximo pode ocorrer a falta de algum ingrediente. Mesmo nesta situação, é necessário que o interpretador já saiba de antemão qual caminho alternativo seguir. Se pensarmos bem, com o cozinheiro acontece a mesma coisa, pois ele precisa ter vivido aquela situação de falta de algum ingrediente para conhecer seus possíveis substitutos.
+Os **cozinheiros**, por sua vez, tem a tarefa metódica de executar o que está descrito na receita. Essa execução é feita passo a passo, na mesma ordem listada na receita. É comum que cozinheiros improvisem, alterem a receita durante o preparo, seja pela falta de algum ingrediente, seja com o intuito de dar um toque pessoal à receita. Na Computação, o papel do cozinheiro é exercido pelo **interpretador** de uma linguagem, ou seja, o programa que os cozinheiros executam para interpretar as receitas. A única diferença é que não há toque pessoal na Computação, ou seja, o interpretador só executa aquilo que está descrito, nada mais, nada menos. No máximo, pode ocorrer a falta de algum ingrediente. Mesmo nesta situação, é necessário que o interpretador já saiba de antemão qual caminho alternativo seguir. Se pensarmos bem, com o cozinheiro acontece a mesma coisa, pois ele precisa ter vivido aquela situação de falta de algum ingrediente para conhecer seus possíveis substitutos.
+
+<img src="/assets/cozinha-industrial.jpg" width="640"/>
 
 Pensando numa cozinha industrial, onde a quantidade de pratos a serem preparados simultaneamente é grande, é fundamental que haja um pessoal de apoio para garantir o bom funcionamento da cozinha. Chamaremos estes de **assistentes do cozinheiro**, os quais localizam os ingredientes e utensílios nos armários e geladeiras, arrumam estes quando há necessidade, arrumam também a bancada, lavam a louça que já foi utilizada e que poderá ser reutilizada, controlam a temperatura do fogo, ou seja, dão todo o apoio para que as receitas possam ser preparadas da melhor forma possível. Na Computação estes são chamados de **Sistemas Operacionais**. A forma como estes funcionam varia de fabricante para fabricante, assim como as cozinhas possuem organizações bem particulares. Observem que iniciamos este parágrafo considerando cozinhas industriais. Mas, tendo em vista os papéis cruciais desempenhados pelos assistentes, não é de se estranhar que toda cozinha tenha alguém com este papel. Da mesma forma, encontramos Sistemas Operacionais tanto em grandes centros computacionais como em computadores domésticos, tablets, celulares e qualquer outro equipamento que execute diferentes programas.
 
@@ -70,6 +70,8 @@ Abaixo segue um resumo das analogias de base para este livro:
 | Pia/Bancada | Memória Principal |
 | Armários/Geladeira | Memória Secundária |
 | Cliente | Usuário |
+| Fornecedores | Dispositivos de Entrada |
+| Formas de Entrega | Dispositivos de Saída |
 | Livro de Receitas | Sistema |
 | Material para criar receitas | IDE |
 
