@@ -88,7 +88,7 @@ Abaixo segue um resumo das analogias de base para este livro:
 | Cliente | Usuário |
 | Fornecedores | Dispositivos de Entrada |
 | Formas de Entrega | Dispositivos de Saída |
-| Livro de Receitas | Sistema |
+| Receitas de: Entrada + Prato Principal + Sobremesa | Sistema |
 | Material para criar receitas | IDE |
 
 Agora que introduzimos as analogias básicas e gerais entre Computação e Culinária, podemos iniciar a apresentação das analogias entre receitas e programas, as quais são o objetivo principal deste livro.
