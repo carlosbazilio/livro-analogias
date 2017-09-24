@@ -36,3 +36,4 @@
    * [Frameworks](conceitos-avancados/frameworks.md)
    * [Banco de Dados](conceitos-avancados/bd.md)
    * [Desenvolvimento Ágil](conceitos-avancados/agil.md)
+* [Agradecimentos](agradecimentos.md)
