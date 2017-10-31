@@ -6,7 +6,9 @@ Para iniciar, minha eterna crítica, colaboradora, revisora e companheira Patric
 
 Ao meu primo Adilson Bazilio Ferreira por ter feito o primeiro comentário comprovando que leu o livro (ao menos a Introdução). Seu comentário foi: "Boa primo! Eu, como SO, funciono bem rsrsrs !!!" :D
 
-Ao aluno ??? (ainda não sei o nome dele, mas atualizo em breve!) por ter sugerido uma interpretação mais adequada para a analogia do comando de atribuição. Procurei adaptá-la para a analogia já existente e achei que ficou mais interessante.
+Ao colaborador Stevemberg Carvalho de Oliveira por ter sugerido uma interpretação mais adequada para a analogia do comando de atribuição. Procurei adaptá-la para a analogia já existente e achei que ficou mais interessante.
+
+Ao amigo Peter Clayder, por ter se apropriado tão bem da analogia de frameworks, a ponto de me fazer elaborar melhor a abordagem inicial.
 
 E vou ficar torcendo aqui para que mais sugestões sejam recebidas e esta seção fique bem grande! ;)
 
