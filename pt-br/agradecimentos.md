@@ -8,7 +8,7 @@ Ao meu primo Adilson Bazilio Ferreira por ter feito o primeiro comentário compr
 
 Ao colaborador Stevemberg Carvalho de Oliveira por ter sugerido uma interpretação mais adequada para a analogia do comando de atribuição. Procurei adaptá-la para a analogia já existente e achei que ficou mais interessante.
 
-Ao amigo Peter Clayder, por ter se apropriado tão bem da analogia de frameworks, a ponto de me fazer elaborar melhor a abordagem inicial.
+Ao aluno e amigo Peter Clayder, por ter se apropriado tão bem da analogia de frameworks, a ponto de me fazer elaborar melhor a abordagem inicial.
 
 E vou ficar torcendo aqui para que mais sugestões sejam recebidas e esta seção fique bem grande! ;)
 
