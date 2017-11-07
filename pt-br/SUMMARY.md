@@ -1,6 +1,7 @@
 # Summary
 
 * [Prefácio](README.md)
+* [Quem deve Ler](publico-alvo.md)
 * [Introdução](introducao.md)
 * [Conceitos Básicos](conceitos-basicos.md)
    * [Entrada e Saída](conceitos-basicos/entrada-saida.md)
