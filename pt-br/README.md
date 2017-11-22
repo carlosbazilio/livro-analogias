@@ -1,5 +1,3 @@
-# ![](/cover.jpg)
-
 # Prefácio
 
 Diz a sabedoria popular que um homem só tem uma vida completa quando planta uma árvore, escreve um livro e tem um filho. Ao meu ver, não se diz isso pensando de forma literal, mas sim na importância abstrata destes feitos. Ao plantar uma árvore, demonstramos preocupação com o ambiente onde vivemos. Ao ter um filho, amamos ao próximo incondicionalmente. Ao escrever um livro, desejamos compartilhar e "eternizar" o conhecimento adquirido. Claramente conseguimos realizar estes feitos abstratos de diferentes maneiras. O importante é ter consciência da importância destes.
