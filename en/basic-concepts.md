@@ -1,3 +1,3 @@
-# Conceitos Básicos
+# Basic Concepts
 
-Neste capítulo apresentamos analogias de conceitos básicos para os iniciantes em Programação. Todas as analogias levam em consideração as analogias básicas apresentadas no [capítulo de Introdução](https://carlosbazilio.gitbooks.io/programando-na-cozinha/content/chapter1.html#analogias "Url do capítulo").
+In this chapter we present metaphors for beginners in programming languages. All metaphors regards basics metaphors presented at [Introduction chapter](https://carlosbazilio.gitbooks.io/programando-na-cozinha/content/chapter1.html#analogias "Url do capítulo").
