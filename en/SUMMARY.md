@@ -1,6 +1,7 @@
 # Summary
 
 * [Preface](README.md)
+* [Who Should Read](target-audience.md)
 * [Introduction](introduction.md)
 * [Basic Concepts](basic-concepts.md)
    * [Input and Output](basic-concepts/entrada-saida.md)
@@ -17,7 +18,7 @@
    * [Recursion](basic-concepts/recursao.md)
    * [Libraries](basic-concepts/bibliotecas.md)
    * [Files](basic-concepts/arquivos.md)
-   * [Ponteirs](basic-concepts/ponteiros.md)
+   * [Pointers](basic-concepts/ponteiros.md)
    * [Abstraction](basic-concepts/abstracao.md)
    * [Exceptions](basic-concepts/excecoes.md)
 * [Advanced Concepts](advanced-concepts.md)
