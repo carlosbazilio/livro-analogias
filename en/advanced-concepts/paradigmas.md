@@ -1,6 +1,6 @@
-# Paradigmas de Programação
+# Programming Paradigms
 
-<img src="/assets/paradigmas.jpg" width="320"/>
+<img src="/assets/paradigmas.jpg" width="640"/>
 
-Paradigmas de programação são formas diferentes de se programar, mas que tem o mesmo objetivo, que é resolver algum problema, ou elaborar alguma receita. Nestas subseções (Programação Estruturada, Funcional, Lógica e Orientada a Objetos) veremos formas diferentes de se programar. Para tal, criaremos um programa em cada paradigma que simula a preparação de um macarrão instantâneo.
+Programming paradigms are distinct styles of programming. In the kitchen the same plate may be prepared in many different ways. Futhermore, chef may be vegeterian, vegan or low-carb specialist. So every recipe step must consider this scenario. The same happens with programming paradigms. In the following sections we present a program in each paradigm which simulates instant noodle preparation.
 
