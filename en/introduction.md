@@ -6,7 +6,7 @@ In this book we present **programming** concepts regarding **cooking** tasks. Re
 
 Before presenting programming concepts, we made some metaphors regarding computers like hardware components. In fact, these metaphors apply to many electronic devices, like mobile phones, tables, robots, microwaves, etc.
 
-![](/assets/computational-system.jpg)
+<img src="/assets/computational-system.jpg" width="320"/>
 
 In this picture, **Processor** is the system's brain where all processing is controlled. Although it has processing power and speed, it would be useless alone. Then we have the other 4 blocks in the picture: the **Memory**, the **Input**, **Output** and **Storage** devices.
 
