@@ -1,95 +1,94 @@
-# Introdução
+# Introduction
 
 ![](/assets/cozinha.jpeg)
 
-Neste livro apresentaremos conceitos de **programação** fazendo **analogia** com a **culinária**. Para tal não é necessário ser um "mestre cuca" para entender as analogias apresentadas. Utilizamos este artifício como forma de facilitar o entendimento de conceitos na programação. Os conceitos abordados vão desde a programação básica, para iniciantes, até conceitos mais avançados, exigidos a programadores experientes.
+In this book we present **programming** concepts regarding **cooking** tasks. Readers are not supposed to be chefs in order to understand presented concepts. Metaphors are used to explain these concepts easily. Discussed concepts range from basic to advanced ones. Last requires some programming experience.
 
-Antes de falarmos de programação efetivamente, vamos apresentar de maneira minimalista, mas suficiente, o que é um computador. Na verdade, o esquema abaixo descreve de maneira geral todos os sistemas computacionais que temos contato: celulares, tablets, robôs, forno microondas, etc. 
+Before presenting programming concepts, we made some metaphors regarding computers like hardware components. In fact, these metaphors apply to many electronic devices, like mobile phones, tables, robots, microwaves, etc.
 
-![](/assets/sistema-computacional.jpg)
+![](/assets/computational-system.jpg)
 
-Neste esquema, o **Processador** é o cérebro do sistema, o qual controla todo o seu funcionamento. Apesar de muito poderoso e rápido, só nada conseguiria fazer. Para ajudar na sua tarefa temos os outros 4 componentes do diagrama: a **Memória**, os dispositivos de **Entrada**, **Saída** e **Armazenamento**.
+In this picture, **Processor** is the system's brain where all processing is controlled. Although it has processing power and speed, it would be useless alone. Then we have the other 4 blocks in the picture: the **Memory**, the **Input**, **Output** and **Storage** devices.
 
-A **Memória**, também chamada de memória principal ou memória RAM, é o componente responsável pelo armazenamento rápido de informações. O nosso cérebro também possui uma porção para este fim. Quando precisamos guardar um número de telefone "de cabeça", por não posssuirmos no momento nada para registrá-lo, usamos essa porção do cérebro. Conseguimos registrar muito rapidamente, mas conseguimos esquecer com igual velocidade também. Nos computadores, a informação é retida na memória enquanto este está ligado, se esvaziando quando o desligamos. Processo similar deve ocorrer com nosso cérebro quando vamos dormir, ao menos para as informações que foram obtidas sem muito esforço.
+**Memory**, also called main memory or RAM (Random Access Memory), is responsible for fast storage of information. Our brain has a portion that does the same. When we need to memorise a phone number before we register it in a mobile phone, we use this portion. Information is recorded and erased easily at this portion. All stored information is lost when computer power is down.
 
-Na situação em que queremos registrar a informação de forma mais duradoura, usamos a memória secundária, os **Dispositivos de Armazenamento**. Da mesma forma que temos muitas alternativas para registrar um número de telefone de forma mais permanente (caderno de anotações, agenda do celular, papel de pão, etc), o processador tem diversos dispositivos para registrar suas informações: disco rígido, cartão de memória, CD-Rom, etc. O registro nestes dispositivos garante um tempo de vida útil muito maior que a memória principal. 
+When we want to store information regardless computer power, we use **Storage Devices**. When we want to save a phone number for later use, we have many options: notebooks, mobile phone agenda, etc. Computers also have many options: hard disks, memory cards, CD-ROM, etc. These devices are slower than main memory but store for long time.
 
-Outro aspecto fundamental para que nosso cérebro funcione é o contexto onde ele se encontra. Problemas enfrentados no dia a dia são fundamentais para manter nosso cérebro em funcionamento. E estes problemas são percebidos com nossos sentidos: visão, olfato, paladar, audição e tato. Estes sentidos permitem que nos comuniquemos com o mundo, assim como os **Dispositivos de Entrada** (teclado, mouse, microfone, etc) e os **Dispositivos de Saída** (monitor, impressora, etc) permitem que possamos interagir com os computadores. Alguns sentidos possuem uma única direção, como a visão e a audição. Estes são utilizados apenas para fornecer informação (entrada) ao cérebro. O tato, por sua vez, tem o papel de nos dar a percepção do formato, a textura das coisas (entrada), mas também permite que troquemos as coisas de lugar (saída). Com o computador não é diferente. Um teclado é usualmente utilizado como um dispositivo de entrada. Um monitor, por sua vez, pode ter a tela sensível ao toque, o que o torna um dispositivo de entrada e saída. Apesar disso, os papéis de entrada e saída são bem definidos, como pode ser visto no sentido das setas do esquema anterior.
+To perceive an environment is another crucial issue to provide information to our brain. Our five senses (taste, sight, touch, smell and sound) allow us to recognize and communicate with an environment. Computers have **Input Devices** (keyboard, mouse, microphone, etc) and **Output Devices** (screen, printer, etc) to do so. Arrows orientation at the picture above indicate data flow direction.
 
-A seguir veremos analogias básicas destes componentes em nossa cozinha.
+Below we present metaphors relating those concepts and kitchens.
 
-## Computador
+## Computer
 
 <img src="/assets/cozinha.jpeg" width="320"/> <img src="/assets/computador.jpeg" width="320"/>
 
-Uma **cozinha** pode ser associada a um **computador**. É nela em que tudo acontece. Um computador executa programas, assim como uma cozinha é utilizada para preparar receitas. O computador é operado por um usuário, o qual tem necessidades específicas e utiliza o computador para automatizá-las. Da mesma forma as receitas só são preparadas quando há clientes famintos demandando estas.
+A **kitchen** is related to a **computer**. A computer runs programs as long as kitchens are used to be prepare meals. A person uses a computer in order to automate tasks required by another person or company. Meals are prepared when there are hungry clients.
 
-## Memória Principal
+## Main Memory
 
 <img src="/assets/bancada.jpeg" width="320"/> <img src="/assets/memoria.jpeg" width="320"/>
 
-Quando dizemos que utilizamos uma cozinha (e não um quarto), já subentendemos que uma série de elementos comuns de uma cozinha estarão disponíveis. A cada destes elementos fazemos uma associação a componentes num computador. **Pias** e **bancadas** constituem a **memória principal**, pois elementos são armazenados ali de forma temporária, apenas para o preparo de uma receita. Ingredientes, vasilhames, até a descrição da receita em si, são colocados nesta memória para auxiliar o preparo da receita.
+Since kitchens are related to computers, in order to describe the metaphor completely each cooking utensil should be related to a computer component. For instance, **sinks** and **stands** are computer main memory. Both are used to store things (food or data) for a short period. Cooking utensils, ingredients and recipes are stored for cooking faster.
 
-Na cozinha é recomendável que sempre deixemos a bancada limpa. Isso agiliza o preparo de novas receitas, além de garantir higiene na manipulação dos alimentos. Essa limpeza é importante também pois o espaço disponível na bancada é limitado. Todas essas características valem para o uso da memória num computador. Ela precisa ser desocupada com frequência, usada de forma consciente, para que não se esgote rapidamente.
+Sinks and stands should be always clean. It speeds up preparing next meal and improves hygiene. Cleaning is also important because sinks and stands have limited space. Computer main memory must be used in this way. Otherwise, programs may run slowly.
 
-No preparo de receitas que envolvem muitos ingredientes, ou no preparo de mais de uma receita simultaneamente, é comum a bancada não ser suficiente. Neste caso, costumamos manter alguns ingredientes no armário, se possível próximo da bancada para não atrasar no preparo na receita. Este espaço reservado nos armários para o preparo de uma receita, em função da bancada estar cheia, é chamado de **memória virtual** no computador. Ou seja, quando grandes programas executam no computador, em uma memória limitada, eventualmente é necessário que parte destes programas sejam colocados nos discos rígidos para que outras partes possam ser executadas.
+When space available at sinks and stands are not enough, an extra space must be arranged. In a computer this extra space is called **virtual memory** and is located in a particular place in the hard disk. In a kitchen, this extra space may be located in a kitchen cabinet or any other place close to the sink and stand. This place must be close because things physically or virtually located at a stand must be recovered quickly.
 
-## Memória Secundária
+## Secondary Memory
 
 <img src="/assets/geladeira.jpg" width="320"/> <img src="/assets/hd.jpeg" width="320"/>
 
-Para que diversas receitas possam ser preparadas, é necessário que uma cozinha esteja bem equipada para permitir o armazenamento adequado de produtos e utensílios domésticos. Para tal utilizamos **armários**, **geladeiras** e **freezers**, os quais representam nossa **memória secundária**, ou seja, dispositivos que armazenam nossos produtos com muito mais espaço e por um tempo muito maior que nossas pias e bancadas.
+In order to prepare many recipes, the kitchen must contain enough space to store food and kitchenware. Secondary memory are **cabinets**, **fridges** and **freezers** since they can store many items and for a long period of time.
 
-## Processador
+## Processor
 
 <img src="/assets/fogao.jpeg" width="320"/> <img src="/assets/cpu.jpeg" width="320"/>
 
-Para que o preparo da receita possa de fato ocorrer, **fogões**, **fornos** e **microondas** costumam ser peças fundamentais, para onde vão todo nosso esforço na cozinha. Esses elementos, na Computação, são os **processadores**. Como na cozinha, há muitos tipos, os quais podem diferir pela velocidade de processamento, consumo de energia, material utilizado, etc. Estas e outras características, juntamente com a competição de mercado, determinam os preços desses componentes.
+**Stoves**, **ovens** and **microwaves** are our processors. They are crucial for preparing recipes. In the kitchen they differ in speed, power consumption, etc. The same happens with processors in computers.
 
-## Arquitetura
+## Architecture
 
 <img src="/assets/cozinha-projeto.jpeg" width="320"/> <img src="/assets/computador-arquitetura.jpeg" width="320"/>
 
-Um **arquiteto** na construção civil tem como uma de suas atribuições garantir a melhor distribuição dos espaços numa cozinha. Esta distribuição deve garantir buscar a maior eficiência possível. Por exemplo, uma bancada sempre está próxima de uma pia, pois é comum na cozinha a tarefa de descascar e lavar, por exemplo. Ou seja, a distribuição otimiza as tarefas mais frequentes. De forma igual ocorre na Computação, onde um **arquiteto de hardware** projeta a máquina de forma que seus componentes funcionem da forma mais eficiente possível. Por exemplo, no uso do fogão, durante um preparo, os ingredientes podem ser necessários em momentos distintos, e um retardo ao pegar um ingrediente pode resultar num prato com cozimento fora do ideal, por exemplo. Relação similar ocorre entre **processador** e **memória** num computador.
+An **architect** plans a kitchen in order to be best used. So usually the sink is close to the stand the stand is close to the stove, and so on. In Computing, a **hardware architect** plans a computer also in order to be best used. So **memory**, **processors** and **secondary memory** are located in order to maximize their efficiency.
 
-## Programador
+## Programmer
 
 <img src="/assets/cozinheiros.jpg" width="320"/> <img src="/assets/programadoras.jpg" width="320"/>
 
-As receitas são elaboradas por **chefes de cozinha** e preparadas por cozinheiros. A elaboração destas é feita baseada na experiência do chefe com diferentes ingredientes, que combinados darão o efeito desejado. Tendo em vista que ingredientes similares podem causar o mesmo efeito, como manteiga e azeite, um mesmo prato pode ser preparado de diferentes formas. De forma similar ocorre na programação, onde programas diferentes podem ter o mesmo resultado. Os chefes são os **programadores** que elaboram receitas de acordo com o pedido de seus clientes.
+Recipes are created by **chefs** and cooked by cookers. Chefs use their experience to combine different foods in a special maybe unique way. But those foods can be combined in many other ways. The same happens with programming. A problem can be solved algorithmically in many different ways.
 
 <img src="/assets/robo.jpg" width="640"/>
 
-Os **cozinheiros**, por sua vez, tem a tarefa metódica de executar o que está descrito na receita. Essa execução é feita passo a passo, na mesma ordem listada na receita. É comum que cozinheiros improvisem, alterem a receita durante o preparo, seja pela falta de algum ingrediente, seja com o intuito de dar um toque pessoal à receita. Na Computação, o papel do cozinheiro é exercido pelo **interpretador** de uma linguagem, ou seja, o programa que os cozinheiros executam para interpretar as receitas. A única diferença é que não há toque pessoal na Computação, ou seja, o interpretador só executa aquilo que está descrito, nada mais, nada menos. No máximo, pode ocorrer a falta de algum ingrediente. Mesmo nesta situação, é necessário que o interpretador já saiba de antemão qual caminho alternativo seguir. Se pensarmos bem, com o cozinheiro acontece a mesma coisa, pois ele precisa ter vivido aquela situação de falta de algum ingrediente para conhecer seus possíveis substitutos.
+**Cookers** follow exactly what recipes say. This process is made step by step following recipe ordering. Sometimes some ingredient is missing and the cooker may replace by another trying to simulate the missing one or giving a personal touch. In Computing, cookers are **interpreters** of a programming language. They process recipes written in a particular programming language. Unlike cookers, interpreters do not improvise when something is missing. Everything must be ready to be processed.
 
-## Sistema Operacional
+## Operational System
 
 <img src="/assets/cozinha-industrial.jpg" width="640"/>
 
-Pensando numa cozinha industrial, onde a quantidade de pratos a serem preparados simultaneamente é grande, é fundamental que haja um pessoal de apoio para garantir o bom funcionamento da cozinha. Chamaremos estes de **assistentes do cozinheiro**, os quais localizam os ingredientes e utensílios nos armários e geladeiras, arrumam estes quando há necessidade, arrumam também a bancada, lavam a louça que já foi utilizada e que poderá ser reutilizada, controlam a temperatura do fogo, ou seja, dão todo o apoio para que as receitas possam ser preparadas da melhor forma possível. Na Computação estes são chamados de **Sistemas Operacionais**. A forma como estes funcionam varia de fabricante para fabricante, assim como as cozinhas possuem organizações bem particulares. Observem que iniciamos este parágrafo considerando cozinhas industriais. Mas, tendo em vista os papéis cruciais desempenhados pelos assistentes, não é de se estranhar que toda cozinha tenha alguém com este papel. Da mesma forma, encontramos Sistemas Operacionais tanto em grandes centros computacionais como em computadores domésticos, tablets, celulares e qualquer outro equipamento que execute diferentes programas.
+Industrial kitchen requires many more items to deliver without delay. Cook assistants help cookers to prepare plates as fast as possible. They locate food in the cabinets, clean the stand, control stove temperature, etc. In Computing, assistant's tasks are made by **Operating Systems**. They help interpreters to execute what programs are designed for.
 
-## Dispositivos de Entrada e Saída
+## Input and Output Devices
 
-Para que as cozinhas funcionem é fundamental que hajam alimentos. Estes alimentos são entregues por **fornecedores**, os quais podem ser encarados como os **dispositivos de entrada** de nosso computador. Da mesma forma, podemos encarar a **forma de entrega** de nossos preparos (entrega a domicílio, no restaurante, etc) como os **dispositivos de saída**.
+Food is the feedstock of kitches. They are delivered by **providers** which can be seen as **input devices** in our computer. In the same way, what is produced by our kitches must be delivered to our clients. Delivery service can be seen as **output devices**.
 
-Abaixo segue um resumo das analogias de base para este livro:
+Below we list an abstract of basic metaphors for this book:
 
 <a name="analogias"></a>
 
-| Culinária | Programação |
+| Cooking | Programming |
 | :--- | :--- |
-| Cozinha | Computador |
-| Receita | Programa |
-| Chefe | Programador |
-| Cozinheiro | Interpretador |
-| Assistentes de Cozinheiro | SO |
-| Pia/Bancada | Memória Principal |
-| Armários/Geladeira | Memória Secundária |
-| Cliente | Usuário |
-| Fornecedores | Dispositivos de Entrada |
-| Formas de Entrega | Dispositivos de Saída |
-| Receitas de: Entrada + Prato Principal + Sobremesa | Sistema |
-| Material para criar receitas | IDE |
+| Kitchen | Computer |
+| Recipe | Program |
+| Chef | Programmer |
+| Cook | Interpreter |
+| Cook Assistant | Operational System |
+| Sink/Stand | Main Memory |
+| Kitchen Cabinet/Fridge | Secondary Memory |
+| Client | User |
+| Providers | Input Devices |
+| Delivery | Output Device |
+| Recipes: Starter + Main Course + Dessert | System |
+| Tools to prepare recipes | IDE |
 
-Agora que introduzimos as analogias básicas e gerais entre Computação e Culinária, podemos iniciar a apresentação das analogias entre receitas e programas, as quais são o objetivo principal deste livro.
-
+As we presented the basic metaphors, we are ready to read the rest of the book, which relate many programming concepts to cooking tasks.
